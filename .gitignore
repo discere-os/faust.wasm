@@ -43,3 +43,35 @@ tests/impulse-tests/ir
 .idea/
 ### Pyenv
 .python-version
+
+# WASM build artifacts
+dist/
+build-wasm*/
+*.wasm
+*.js.mem
+*.js.symbols
+*.js.temp
+*.wast
+*.wat
+
+# Emscripten cache and tools
+emsdk/
+emsdk_env.sh
+.emscripten_cache/
+
+# Node.js and NPM  
+node_modules/
+package-lock.json
+yarn.lock
+npm-debug.log*
+
+# Testing and CI artifacts
+test-results/
+benchmark-results/
+coverage/
+.nyc_output/
+build-logs/
+
+# Development tools
+.vscode/
+.idea/
