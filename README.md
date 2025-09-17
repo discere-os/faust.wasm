@@ -1,8 +1,16 @@
+# @discere-os/faust.wasm
+
+WebAssembly port of Faust - A functional programming language specifically designed for real-time signal processing and synthesis.
+
+[![CI/CD](https://github.com/discere-os/discere-nucleus/actions/workflows/faust-wasm-ci.yml/badge.svg)](https://github.com/discere-os/discere-nucleus/actions)
+[![JSR](https://jsr.io/badges/@discere-os/faust.wasm)](https://jsr.io/@discere-os/faust.wasm)
+[![npm version](https://badge.fury.io/js/@discere-os%2Ffaust.wasm.svg)](https://badge.fury.io/js/@discere-os%2Ffaust.wasm)
+[![License](https://img.shields.io/badge/License-LGPL--2.1-blue.svg)](COPYING.txt)
+[![Status](https://img.shields.io/badge/status-alpha-orange.svg)](https://github.com/discere-os/discere-nucleus)
+
 # Faust - Programming Language for Audio Applications and Plugins
 
 ## Grame, Centre National de Creation Musicale: <https://www.grame.fr>
-
-Build status: [![Ubuntu](https://github.com/grame-cncm/faust/actions/workflows/ubuntu.yml/badge.svg)](https://github.com/grame-cncm/faust/actions/workflows/ubuntu.yml) [![MacOS](https://github.com/grame-cncm/faust/actions/workflows/macos.yml/badge.svg)](https://github.com/grame-cncm/faust/actions/workflows/macos.yml) [![Windows](https://github.com/grame-cncm/faust/actions/workflows/windows.yml/badge.svg)](https://github.com/grame-cncm/faust/actions/workflows/windows.yml)
 
 ## Introduction
 
